@@ -1,6 +1,6 @@
 ## Hallo, ich bin Philipp 👋
 
-Ich mache eine Umschulung zum **Fachinformatiker für Systemintegration** bei der GFN. Auf GitHub dokumentiere ich, was ich dabei praktisch baue und lerne. Ich bin noch kein Profi, aber jedes Projekt läuft auf echter Hardware und ist getestet.
+Ich mache eine Umschulung zum **Fachinformatiker für Systemintegration**. Auf GitHub dokumentiere ich, was ich dabei praktisch baue und lerne. Ich bin noch kein Profi, aber jedes Projekt läuft auf echter Hardware und ist getestet.
 
 ### Woran ich gerade arbeite
 
